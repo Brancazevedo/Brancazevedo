@@ -1,6 +1,7 @@
 <div align="center">
-<img src=![github-header-image](https://github.com/user-attachments/assets/3608288b-7b6a-41f9-8f7e-6c4479503bbc)" align="center" style="width: 100%" />
+<img src="![github-header-image](https://github.com/user-attachments/assets/5ad137e9-69e0-4924-b6fc-867f0d2aba31)" align="center" style="width: 100%" />
 </div>  
+
   
 
 ### <div align="center">Sou atualmente estudante de TSI e ADS 👨‍💻 trabalhando como analista de dados remotamente 🚀</div>  
