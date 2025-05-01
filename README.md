@@ -1,9 +1,7 @@
-<div align="center">
-<img src="/github-header-image.png" align="center" style="width: 100%" />
-</div>  
 
-  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brancazevedo)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brancazevedo&show_icons=true&theme=transparent)
 ### <div align="center">Sou atualmente estudante de TSI e ADS 👨‍💻 trabalhando como analista de dados remotamente 🚀</div>  
   
 
@@ -40,7 +38,7 @@
 
 </td><td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brancazevedo&show_icons=true&count_private=true&hide_border=true" align="left" />
+
 
 </td></tr></table>  
 
