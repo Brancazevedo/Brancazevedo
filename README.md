@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://photos.app.goo.gl/CEt6GKAWbojPoyGL8" align="center" style="width: 100%" />
+<img src=![github-header-image](https://github.com/user-attachments/assets/3608288b-7b6a-41f9-8f7e-6c4479503bbc)" align="center" style="width: 100%" />
 </div>  
   
 
@@ -9,9 +9,7 @@
 - 🔭 Atualmente trabalhando para Neogrid  
   
 
--  🎨Estudando Front End e suas tecnologias  
-  
-
+-  🎨Estudando Front End e suas tecnologias
 - ❓ Sinta-se a vontade para perguntar qualquer coisa  
   
 
