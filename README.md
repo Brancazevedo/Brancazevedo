@@ -8,7 +8,6 @@
 - 🔭 Atualmente trabalhando para Neogrid  
   
 
--  🎨Estudando Front End e suas tecnologias
 - ❓ Sinta-se a vontade para perguntar qualquer coisa  
   
 
